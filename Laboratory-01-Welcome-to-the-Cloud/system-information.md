@@ -10,7 +10,8 @@ Ubuntu 24.04
 [Your actual result]
 
 ## Total Memory
-[Your actual result]
+<img width="1080" height="301" alt="1000016238" src="https://github.com/user-attachments/assets/bd3a4633-a863-4acb-9688-fbb9aa14f109" />
+
 
 ## Available Disk Space
-[Your actual result]
+
