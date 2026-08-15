@@ -1,1 +1,1 @@
-
+This laboratory activity helped me understand the basic use of a Linux environment through KillerCoda. I learned how to create and organize directories, gather system information, and document my work using Markdown. I also learned how to create and organize a GitHub repository for my Cloud Computing portfolio. This activity improved my confidence in using Linux commands and taught me the importance of proper documentation and organization in cloud computing.
