@@ -1,17 +1,28 @@
 # System Information
 
 ## Linux Distribution
-Ubuntu 24.04
+
+Ubuntu 24.04.4 LTS (Noble Numbat)
 
 ## Kernel Version
-[Your actual resultl
+
+6.8.0-136-generic
 
 ## CPU Information
-[Your actual result]
+
+Architecture: x86_64
+CPU(s): 1
+Vendor ID: GenuineIntel
+Model name: Intel Xeon E312xx (Sandy Bridge, IBRS update)
+CPU family: 6
+Model: 42
+Core(s) per socket: 1
+Thread(s) per core: 1
 
 ## Total Memory
-<img width="1080" height="301" alt="1000016238" src="https://github.com/user-attachments/assets/bd3a4633-a863-4acb-9688-fbb9aa14f109" />
 
+1.9 GiB
 
 ## Available Disk Space
-<img width="1080" height="177" alt="1000016239" src="https://github.com/user-attachments/assets/90d864ac-c691-4db6-9816-bc2e84ab4976" />
+
+13G
