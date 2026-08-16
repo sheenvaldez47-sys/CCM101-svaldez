@@ -14,4 +14,4 @@ Ubuntu 24.04
 
 
 ## Available Disk Space
-Messenger_creation_C5CE1231-4CD6-402B-AA2E-CFEB3DEC56B7
+<img width="1080" alt="System Information" src="https://github.com/user-attachments/assets/..." />
