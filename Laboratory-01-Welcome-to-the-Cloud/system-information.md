@@ -4,7 +4,7 @@
 Ubuntu 24.04
 
 ## Kernel Version
-[Your actual result]
+[Your actual resultl
 
 ## CPU Information
 [Your actual result]
