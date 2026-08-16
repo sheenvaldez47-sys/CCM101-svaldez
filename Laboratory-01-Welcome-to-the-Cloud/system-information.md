@@ -14,3 +14,4 @@ Ubuntu 24.04
 
 
 ## Available Disk Space
+<img width="1080" height="177" alt="1000016239" src="https://github.com/user-attachments/assets/90d864ac-c691-4db6-9816-bc2e84ab4976" />
