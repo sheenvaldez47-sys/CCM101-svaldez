@@ -45,21 +45,38 @@ Captured screenshots as evidence of the completed activities.
 # Linux Commands Used
 
 whoami
+
 pwd
+
 hostname
+
 sudo adduser
+
 sudo usermod
+
 su
+
 cat
+
 uname
+
 lscpu
+
 free
+
 df
+
 cd
+
 mkdir
+
 touch
+
 nano
 
 # Summary
 
-This laboratory gave me my first hands-on experience with a cloud-based Linux system. I learned how to create a user, navigate through directories, check system resources, and manage files using the terminal. I also learned how to organize my work in GitHub and document the activities with screenshots. Overall, the activity helped me become more comfortable with Linux and gave me a better understanding of some of the basic tasks involved in cloud computing.
+This laboratory gave me my first hands-on experience with a cloud-based Linux system. 
+I learned how to create a user, navigate through directories, check system resources, and manage files using the terminal. 
+I also learned how to organize my work in GitHub and document the activities with screenshots.
+Overall, the activity helped me become more comfortable with Linux and gave me a better understanding of some of the basic tasks involved in cloud computing.
