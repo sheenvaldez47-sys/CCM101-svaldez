@@ -1,5 +1,5 @@
-# Laboratory 01 – Welcome to the Cloud
-REAME.md
+# Laboratory 01 VALDEZ,S – Welcome to the Cloud
+README.md
 
 System-information.md
 
