@@ -1,13 +1,13 @@
 # Laboratory 01 VALDEZ,S – Welcome to the Cloud
 
-Mission Overview
+#Mission Overview
 
 In this laboratory,
 I was introduced to the basics of working with a cloud-based Linux environment.
 I used KillerCoda to access Ubuntu 24.04 and practiced some of the basic tasks that a cloud infrastructure engineer needs to know,
 such as managing users, checking system information, and organizing files.
 
-Learning Objectives
+#Learning Objectives
 
 Access a Linux environment through the cloud.
 
@@ -25,7 +25,7 @@ Use Markdown to document my work.
 
 Take screenshots to show the activities I completed.
 
-Activities Completed
+#Activities Completed
 
 Accessed Ubuntu 24.04 through KillerCoda.
 
@@ -42,25 +42,24 @@ Set up a Cloud Computing Portfolio on GitHub.
 Captured screenshots as evidence of the completed activities.
 
 
-Linux Commands Used
+#Linux Commands Used
 
-Command	Purpose
-whoami	   Check the current user
-pwd	Show   the current directory
-hostname	  Check the system name
-sudo adduser	  Create a new user
-sudo usermod	  Modify a user
-su	   Switch users
-cat	  View file contents
-uname	  Check system information
-lscpu  	View CPU details
-free	  Check memory usage
-df	  Check disk space
-cd	  Change directories
-mkdir	  Create directories
-touch  	Create files
-nano  	Edit files
+whoami
+pwd
+hostname
+sudo adduser
+sudo usermod
+su
+cat
+uname
+lscpu
+free
+df
+cd
+mkdir
+touch
+nano
 
-Summary
+#Summary
 
 This laboratory gave me my first hands-on experience with a cloud-based Linux system. I learned how to create a user, navigate through directories, check system resources, and manage files using the terminal. I also learned how to organize my work in GitHub and document the activities with screenshots. Overall, the activity helped me become more comfortable with Linux and gave me a better understanding of some of the basic tasks involved in cloud computing.
